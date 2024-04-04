@@ -1,1 +1,4 @@
-alert(13);
+window.onload = function() {
+    alert(13);
+  };
+  
