@@ -1,4 +1,1 @@
-window.onload = function() {
-    alert(13);
-  };
-  
+alert(13);
