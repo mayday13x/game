@@ -1,1 +1,5 @@
-alert(13);
+
+function a(){
+    alert(13);
+}
+
